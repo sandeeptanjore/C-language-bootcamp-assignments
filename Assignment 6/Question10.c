@@ -1,6 +1,6 @@
 /*Write a program to reverse a given number*/
 /*
-Note: did not attempt Questions 8 & 9
+Note: did not attempt Question 9
 */
 #include <stdio.h>
 int main()
